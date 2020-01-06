@@ -1,0 +1,150 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  font-size: 400,700;
+  margin-left:0px;
+  margin-right: 0px;
+}
+
+.board{
+  height:120px;
+}
+.logo{
+  position:absolute;
+  top:50px;
+  left:100px;
+}
+
+.menu-bar{
+  position:absolute;
+  top:50px;
+  right:100px;
+  letter-spacing:1px;
+  word-spacing: 16px;
+}
+
+.img1,.img2{
+  max-width:120%;
+  height:60%;
+  display: inline-block;
+  float:right;
+
+}
+
+.first-container{
+  text-align: center;
+  margin-top:130px;
+  margin-left:150px;
+  margin-right:100px;
+  margin-bototm:50px;
+}
+
+.second-container{
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align:center;
+  background-color: #F8F8FE;
+
+span.sign-in{
+  word-spacing:4px;
+}
+
+}
+.text{
+  width:500px;
+  text-align:left;
+  margin-top:-100px;
+  margin-right: 100px;
+}
+
+.text-2{
+  width:500px;
+  text-align: left;
+  margin-left:130px;
+  margin-top:-150px;
+  margin-right:100px;
+}
+
+.testimonial-box{
+  max-width:50%;
+}
+
+table{
+    margin: auto 0;
+}
+
+.third-row{
+  background-color:hsl(238, 22%, 44%);
+  color:white;
+  height: 200px;
+  text-align: left;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.text-3{
+  left:100px;
+  position:relative;
+  top:8px;
+  max-width: 400px;
+}
+
+.subscribe-text{
+  position:relative;
+  bottom:2px;
+  left:650px;
+}
+
+.footer-1{
+  background-color:hsl(243, 87%, 12%);
+  height: 400px;
+  color:white;
+}
+
+.list1{
+  list-style-type: none;
+  position:relative;
+  left:80px;
+  top:100px;
+  display:inline-block;
+}
+
+.imglogo{
+  position:relative;
+  top:20px;
+  left:300px;
+}
+
+.phonelogo{
+  position:relative;
+  top:65px;
+  left:120px;
+}
+
+.emaillogo{
+  position:relative;
+  top:100px;
+  left:100px;
+}
+
+.list2{
+  list-style-type: none;
+  position:relative;
+  left:250px;
+  top:150px;
+  display: inline-block;
+}
+
+.list3{
+  list-style-type: none;
+  position:relative;
+  left:400px;
+  top:110px;
+  display: inline-block;
+}
+
+.fbinstatwitt{
+  position:relative;
+  top:170px;
+  left:600px;
+  size:300px;
+}
